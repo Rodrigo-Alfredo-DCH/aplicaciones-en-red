@@ -1,0 +1,7 @@
+Recibo de compra
+Fecha y hora: 2024-11-18 23:44:04
+Productos:
+Código	Nombre	Cantidad	Precio
+P001	Laptop Dell Inspiron	1	15000.00
+P002	Smartphone Samsung Galaxy	1	12000.00
+Total a pagar: 27000.0
